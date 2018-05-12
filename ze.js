@@ -106,7 +106,7 @@ ${serverQueue.songs.map(song => `**-** ${song.title}`).join('\n')}
 		`);
 
     return undefined;
-
+    }
 });
 
 function play(guild, song) {
