@@ -9,9 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.1.0",
+    "canvas-constructor": "^1.0.1",
+    "discord.js": "^11.2.1",
     "ffmpeg-binaries": "^3.2.2-3",
+    "fs-nextra": "^0.3.4",
+    "google-translate-api": "^2.3.0",
     "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.0.2",
+    "snekfetch": "^4.0.0",
     "ytdl-core": "^0.20.3"
   }
 }
